@@ -1,12 +1,14 @@
 img{
   height: 300px;
-  border-redius: 25px;
-  border: 1px solid black;
+  border-radius: 25px;
+  border: 1px solid rgb(0, 0, 0);
 }
+/* https://www.w3schools.com/css/css_border_shorthand.asp*/
 
 h1 {
   font-family: Trebuchet Ms;
   color: #008080;
-
-
 }
+/*  https://www.w3schools.com/cssref/css_websafe_fonts.asp
+    https://www.w3schools.com/colors/colors_hex.asp
+*/
