@@ -1,13 +1,19 @@
-img{
+/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
+
+/* add code here to change the color and font family of your movie's name/title */
+
+/* Bonus: change the color of your list elements */
+
+img {
   height: 300px;
   border-radius: 25px;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid black;
 }
 /* https://www.w3schools.com/css/css_border_shorthand.asp*/
 
 h1 {
-  font-family: Trebuchet Ms;
-  color: #008080;
+  font-family: Garamond;
+  color: #ff0000;
 }
 /*  https://www.w3schools.com/cssref/css_websafe_fonts.asp
     https://www.w3schools.com/colors/colors_hex.asp
